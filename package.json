@@ -1,0 +1,19 @@
+{
+  "name": "sass-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for HTML5 projects using SASS and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "html5",
+    "sass",
+    "typescript",
+    "babel",
+    "webpack"
+  ],
+  "author": "amarolahy",
+  "license": "ISC"
+}
